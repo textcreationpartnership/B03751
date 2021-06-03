@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Analysis or resolution of merchants accompts, by Ralph Handson.</title>
+            <author>Handson, Raph.</author>
+         </titleStmt>
+         <extent>Approx. 15KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03751</idno><idno type="EEBO-CITATION">49520907</idno>
+  <idno type="VID">174148</idno>
+  <idno type="EEBO-PROQUEST">2248528519</idno>
+  
+            <idno type="STC">Wing H647A</idno>
+            <idno type="STC">ESTC R177890</idno>
+            <idno type="OCLC">49520907</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B03751)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174148)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2668:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Analysis or resolution of merchants accompts, by Ralph Handson.</title>
+                  <author>Handson, Raph.</author>
+               </titleStmt>
+               <editionStmt>
+                  <edition>The fourth edition, corrected and enlarged.</edition>
+               </editionStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by W.G. for Robert Horne,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1669.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in: Christ Church (University of Oxford). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Accounting --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:174148:1"/>
+            <head>Analysis or Resolution of MERCHANTS ACCOMPTS, by <hi>RALPH HANDSON,</hi> Accomptant. <hi>The Fourth Edition, Corrected and Enlarged.</hi>
+            </head>
+            <p>NOTA: That, Dr. <hi>signifieth the Debitor,</hi> and Cr. <hi>the Creditor.</hi> Also, <hi>All Accompts of Ex<g ref="char:EOLhyphen"/>change and of parties resi<g ref="char:EOLhyphen"/>ding in Forrain Countries, are to be kept with a dou<g ref="char:EOLhyphen"/>ble Margin,</hi> viz. <hi>The in<g ref="char:EOLhyphen"/>ward Margin for the Mo<g ref="char:EOLhyphen"/>ney of the place beyond the Seas, and the outward for the place where you reside.</hi>
+            </p>
+            <p>
+               <list>
+                  <head>Accompts for Mer<g ref="char:EOLhyphen"/>chants are resolved into Do<g ref="char:EOLhyphen"/>mestick, Forrain, or Partable, <hi>viz.</hi>
+                  </head>
+                  <item>Domestick consisteth of <hi>viz.</hi>
+                     <list>
+                        <item>Inventory of the
+<list>
+                              <item>Ready Mony, Wares, Voyages, and Debts belonging or owing to You; Dr. those several Parcels, or Parties; Cr. your Stock or Principal.</item>
+                              <item>Debts owing by You; Dr. your Stock or Principal; Cr. the several Parties to whom you owe the same.</item>
+                           </list>
+                        </item>
+                        <item>Receipts of
+<list>
+                              <item>Mony
+<list>
+                                    <item>By Bond, Bill, Accompt, or otherwise; Dr. Mony; Cr. the Party or Parties from whom the same was due.</item>
+                                    <item>For Wares sold and delivered; Dr Mony; Cr. those Wares so sold and delivered, the Mony being received upon the delivery (which is seldom in use.)</item>
+                                    <item>Taken up at Interest by Bond
+<list>
+                                          <item>Dr. Mony for the sum received or taken up</item>
+                                          <item>Dr. Interest, or Profit and Loss for the Interest thereof</item>
+                                       </list> Cr. the party that lent the same for the Principal and the Interest.</item>
+                                    <item>For Interest of Mony (formerly lent, the Principal being continued:) Dr. Mony: Cr. the Accompt of Interest, or Profit and Loss.</item>
+                                    <item>For Assurance of Goods Shipped by another: Dr. Mony: Cr. the Accompt of Assurance, or Profit and Loss.</item>
+                                    <item>By Exchange remitted from your Factor: Dr. Mony: Cr. the party to whom the Bills were directed, if he have formerly been charged in Accompt for the same. Otherwise Cr. your Factor or Correspondent by a double Margin.</item>
+                                    <item>Taken up by Exchange: Dr. Mony: Cr your Factor, or he to whom the bills are directed.</item>
+                                 </list>
+                              </item>
+                              <item>Bills
+<list>
+                                    <item>Of Assignation from another: Dr. the Assigns or Party assigned to pay: Cr the Assignor; or he who assigned over the same.</item>
+                                    <item>By Exchange: Dr. the party to whom the Bills are directed after his acceptance: Cr. the Factor who remitted the same by a double Margin.</item>
+                                 </list>
+                              </item>
+                              <item>Wares.
+<list>
+                                    <item>Bought for
+<list>
+                                          <item>Mony: Dr. the Wares bought and received: Cr. Mony, when the Mony is paid upon the delivery of the Wares, which is seldom used.</item>
+                                       </list>
+                                    </item>
+                                    <item>Bought for
+<list>
+                                          <item>Time.</item>
+                                          <item>Part Mony, part time.</item>
+                                          <item>Part Mony, part anothers Bill, part time.</item>
+                                       </list> Dr. the several Wares bought and received: Cr. the party that selleth the same. And after the Seller is Dr. for the Mony paid, or Bills delivered him as afore.</item>
+                                    <item>Bought for
+<list>
+                                          <item>Part Mony, part for anothers Bill: Dr. the Wares bought.
+<list>
+                                                <item>Cr. Mony for the sum paid.</item>
+                                                <item>Cr. the party whose Bill is delivered for the value thereof.</item>
+                                             </list>
+                                          </item>
+                                       </list>
+                                    </item>
+                                    <item>In barter
+<list>
+                                          <item>Wares for Wares simply: Dr. the Wares received: Cr. the Wares delivered for the same sum, which seldom happens.</item>
+                                          <item>For part Mony, part Wares: Dr. the Wares received:
+<list>
+                                                <item>Cr. or Mony for so much as is paid.</item>
+                                                <item>Cr. the several Wares delivered for the value of them.</item>
+                                             </list>
+                                          </item>
+                                       </list>
+                                    </item>
+                                    <item>In barter
+<list>
+                                          <item>For part Mony, part Wares, part time.</item>
+                                          <item>For part Mony, part by anothers Bill, part Wares, part time</item>
+                                       </list> Dr. the several Wares bought &amp; received: Cr. the party that selleth the same And after he is Dr. for the Mony paid, Wares or Bills delivered as before.</item>
+                                    <item>From beyond the Seas, from your Factor: Dr. the several Commodities received: Cr. your Factor by a double Margin.</item>
+                                 </list>
+                              </item>
+                           </list>
+                        </item>
+                        <item>Payments of Mony.
+<list>
+                              <item>Owing by you by Bill, Bond, Accompt, or otherwise: Dr. the Party or Parties to whom the same was due. Cr. Mony.</item>
+                              <item>For Wares bought for Mony: Dr. the Wares so bought and received. Cr. Mony.</item>
+                              <item>Lent at Interest by Bond: Dr. the Party or Parties borrowers for the Principal and Interest.
+<list>
+                                    <item>Cr. Mony for the sum paid.</item>
+                                    <item>Cr. Profit or Loss, or the Acc. of Interest, for the Interest thereof.</item>
+                                 </list>
+                              </item>
+                              <item>For Interest of Mony formerly taken up (the principal being continued) Dr. Interest, and Profit or Loss: Cr. Mony.</item>
+                              <item>For Assurance of Goods Shipped: Dr. the Accompt of Assurance of, or Profit and Loss. Cr. Mony.</item>
+                              <item>Remitted by Exchange: Dr. the Factor or Party to whom the Bills are payable. Cr. Mony.</item>
+                              <item>By Bills of Exchange charged upon you: Dr. the Factor or Party under-writing those Bills. Cr. Mony.</item>
+                              <item>For Charges
+<list>
+                                    <item>Of Wares bought: Dr. those Wares.</item>
+                                    <item>Of Goods Shipped: Dr. the Voyage.</item>
+                                    <item>Extraordinary. Dr. Profit and Loss, or petty expences.</item>
+                                    <item>Of Houshold. Dr. Profit and Loss, or petty expences.</item>
+                                 </list>
+                              </item>
+                           </list> Cr. Mony.</item>
+                        <item>Delivery of a Bill or Bills of Debt, by assignation for Mony owing by you: Dr. the party assigned to receive the same: Cr. the party whose bill you delivered.</item>
+                        <item>Sales of Wares.
+<list>
+                              <item>For Mony: Dr. Mony: Cr. the Wares sold and delivered (the Mony being received upon the delivery of the Wares sold, which is not usual.)</item>
+                           </list>
+                        </item>
+                        <item>Sales of Wares.
+<list>
+                              <item>For Time, or</item>
+                              <item>For part Mony, part time, or</item>
+                              <item>For part Mony, part Wares part by anothers bill, part time.</item>
+                           </list> Dr. the party that buyeth those Wares: Cr. the Wares sold and delivered for the whole sum. And for the Mony received make: Dr. Mony: Cr. the party buyer in the second branch. And in the third branch: Dr. the party whose bill you take: Cr the buyer.</item>
+                        <item>Sales of Wares.
+<list>
+                              <item>In barter
+<list>
+                                    <item>Wares for Wares simply: Dr. the Wares received: Cr. the Wares delivered both be of equal value, which seldom hapneth.</item>
+                                 </list>
+                              </item>
+                              <item>In barter
+<list>
+                                    <item>For part Mony, part Wares:
+<list>
+                                          <item>Dr. Mony for so much as is received.</item>
+                                          <item>Dr. the Wares received for the value of them. </item>
+                                       </list>
+                                    </item>
+                                 </list> Cr. the several Wares delivered for the whole sum.</item>
+                              <item>In barter
+<list>
+                                    <item>For part Mony, part Wares, part Time:</item>
+                                    <item>For part Mony, part Wares, part anothers bill, part time:</item>
+                                 </list> Dr. the Party or Parties that buy the same. Cr. the Wares sold and delivered for the same sum, as before.</item>
+                              <item>In barter
+<list>
+                                    <item>For part Mony, part by anothers bill:
+<list>
+                                          <item>Dr. Mony for the sum recieved:</item>
+                                          <item>Dr. the party whose bill is taken for the value thereof:</item>
+                                       </list> Cr the Wares sold and delivered for the whole sum.</item>
+                                    <item>For part Wares, part by anothers bill:
+<list>
+                                          <item>Dr. the Wares received for the value of them:</item>
+                                          <item>Dr. the Party whose bill is taken for the rest:</item>
+                                       </list> Cr the Wares sold and delivered for the whole sum.</item>
+                                 </list>
+                              </item>
+                              <item>By advice from your Factor: Dr. that Factor: Cr. the Voyage or Voyages for the Goods sold by him.</item>
+                              <item>The contrary whereof is to be observed in the buying of Wares.</item>
+                           </list>
+                        </item>
+                        <item>Abatements
+<list>
+                              <item>Upon Wares.
+<list>
+                                    <item>Bought: Dr. the party that sold those Wares: Cr. the Wares bought and received.</item>
+                                    <item>Sold: the Wares sold and delivered: Cr. the Party that buyeth those Wares.</item>
+                                 </list>
+                              </item>
+                              <item>Upon Debts
+<list>
+                                    <item>Due to you: Dr. Profit and Loss: Cr. the Party or Parties to whom the abatement was made.</item>
+                                    <item>Owing by you: Dr. the Party or Parties that make the abatement: Cr. Profit and loss</item>
+                                 </list>
+                              </item>
+                           </list> The abatements being neither received, nor paid in Mony.</item>
+                        <item>Voyages of Goods Shipped with Charges: Dr. that Voyage for the whole sum:
+<list>
+                              <item>Cr. the Wares severally Shipped for their several values with their Charges.</item>
+                              <item>Cr. Mony for the Charges of those Wares so shipped (not put to their particular Accompts)</item>
+                           </list>
+                        </item>
+                        <item>Ballance.
+<list>
+                              <item>Of Goods.
+<list>
+                                    <item>In Quantity: Dr. Accompt of Goods remaining: Cr. the Voyage or Goods unsold.</item>
+                                    <item>If Gain: Dr. the accompt of Goods or Voyages: Cr. Profit and Loss.</item>
+                                    <item>If Loss: Dr. the accompt of Profit and Loss: Cr. the Goods or Voyage.</item>
+                                 </list>
+                              </item>
+                              <item>Of Mony: Dr. bal<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>ance: Cr. Mony for rest of that Accompt</item>
+                              <item>Of Debts.
+<list>
+                                    <item>Owing to you: Dr. ballance: Cr. the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                                          <desc>•</desc>
+                                       </gap>arties owing.</item>
+                                    <item>Owing by you: Dr. the Parties due to have: Cr. ballance.</item>
+                                 </list>
+                              </item>
+                              <item>Of Goods remaining: Dr ballance: Cr. the accompt of Goods remaining.</item>
+                              <item>Of Profit and Loss: Dr. that Accompt: Cr. Stock or Principal, if Profit; or contrarily if there be Loss.</item>
+                              <item>Of Stock: Dr that accompt: Cr. ballance which will be equal; And will shew the estate of the whole Accompt kept for conclusion.</item>
+                           </list>
+                        </item>
+                     </list>
+                  </item>
+                  <item>Forraign consisteth of <hi>viz.</hi>
+                     <list>
+                        <item>Receipts of
+<list>
+                              <item>Mony.
+<list>
+                                    <item>Upon bills of Exchange remitted to him, Dr. Mony.</item>
+                                    <item>For Goods sold formerly consigned him. Dr. Mony.</item>
+                                 </list> Cr. the Party that remitted that Mony. Cr the Party that assigned the same. Cr. the Goods received for the accompt of the party or parties that consigned them.</item>
+                              <item>Goods.
+<list>
+                                    <item>bought for Mony, at Time, in barter, <hi>&amp;c.</hi> Dr. <hi>and</hi> Cr. <hi>as in private Accompts.</hi>
+                                    </item>
+                                    <item>by Consignation: Dr. the Goods received for Accompt of <hi>A B,</hi> specifying for whose Accompt: And under that Title naming the particulars of those Goods received w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                          <desc>•</desc>
+                                       </gap>thout value, and so they are to have no Creditor to answer that parcel; but if you value them, there must be Dr. and Cr.</item>
+                                 </list>
+                              </item>
+                           </list>
+                        </item>
+                        <item>Payments of Mony.
+<list>
+                              <item>by bills of Exchange remitted to your Principal, Dr <hi>and</hi> Cr. <hi>as in private Accompts aforesaid.</hi>
+                              </item>
+                              <item>by bills of Exchange charged on you by your Principal: Dr. your said Principal:</item>
+                              <item>by Commission: Dr. the Party that gave the Commission:</item>
+                              <item>For Charges.
+<list>
+                                    <item>Of Goods received by Consignation: Dr. those Goods under one Title of <hi>A B,</hi> &amp;c.</item>
+                                    <item>Of Goods Shipped: Dr. the several Goods Shipped:</item>
+                                    <item>Extraordinary: the Accompt currant of your Principal for whom the same was expended.</item>
+                                 </list>
+                              </item>
+                           </list> Cr. Mony.</item>
+                        <item>Payments of Mony.
+<list>
+                              <item>For Goods bought: Dr. <hi>and</hi> Cr. <hi>as in private Accompts, whether for Mony, Time,</hi> &amp;c.</item>
+                              <item>Lent at Interest: Dr. the Party to whom you Lend the same for the Principal and Interest.
+<list>
+                                    <item>Cr. Mony for the sum paid.</item>
+                                    <item>Cr. the Party whose Mony you Lent for the Interest thereof.</item>
+                                 </list>
+                              </item>
+                           </list>
+                        </item>
+                        <item>Sales of Goods received for Accompts of your Principal, be it for Mony, Time, barter, <hi>&amp;c.</hi> Dr. <hi>as in private Accompts.</hi> Cr. the accompt of those Goods received of <hi>A B,</hi> &amp;c.</item>
+                        <item>Shipping of Coods with Charges: Dr. the Accompt currant of your Principal, for whom the same are Shipped: Cr. <hi>the several Goods Shipped, as in private Accompts.</hi>
+                        </item>
+                        <item>The rest as in private Accompts.</item>
+                     </list>
+                  </item>
+                  <item>Partable.
+<list>
+                        <item>Which may be resolved, as Domestick or Private Accompts: Imagining the intire Accompt to be a Tree, whereof the Accompt partable may represent the Trunk or Body and the several Partners the Branches thereof, of which sufficiently before is written.</item>
+                     </list>
+                  </item>
+               </list>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>LONDON, Printed by <hi>W. G.</hi> for <hi>Robert Horne.</hi> 1669.</p>
+            <pb facs="tcp:174148:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </back>
+   </text>
+</TEI>
